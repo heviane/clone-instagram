@@ -1,0 +1,64 @@
+/* Resetar alguns estilos e aplicar padrões */
+* { 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+}
+/* azul escuro: #385185, azul claro: #0095f6 */
+body{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    min-height: 100%; 
+    margin: 0;
+    padding: 0; 
+    background-color: #fafafa;
+    font-family: BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+}
+
+.not-account{/* Don't have an account? OR Not byheviane? */
+    color: rgb(38,38,38);
+    font-weight: 500;
+    margin: 8px;
+    text-align: center;    
+}
+.link-blue{ /* Sign Up OR Switch accounts*/
+    color: #0095f6;
+    margin-top: 1rem;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    display: inline !important;
+    margin: 0 !important;   
+}
+
+/* media queries = Tratar Responsividade = Tablet and Cellphone */
+@media (max-width: 1024px) {
+    .instagram-wrapper {
+        width: 90%;
+    }
+}
+@media (max-width: 650px) {
+    body {
+        background-color: #ffffff;
+    }
+    .instagram-wrapper {
+        width: 90%;
+    }
+    .instagram-phone {
+        display: none;
+    }
+    .instagram-continue {
+        width: 100%;
+    }
+    .group {
+        border: 1px solid transparent;
+    }
+}

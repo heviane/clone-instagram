@@ -1,0 +1,177 @@
+/* Container Pai */
+.instagram-wraper{
+    display: flex; 
+    align-items: center; /* Alinhamento vertical (eixo y) dos itens do container */
+    justify-content: start; /* Alinhamento horizontal (eixo x) = start = começar da esquerda para a direita*/
+    width: 60%;
+    height: 100vh;
+}
+/* Página - Lado Esquerdo */
+.instagram-phone{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+.instagram-phone img{
+    height: 50rem;
+}
+/* Página - Lado Direito */
+.instagram-access{
+    display: flex;
+    flex-direction: column; /* Mudamos a direção (eixo) de linha para coluna */
+    align-items: center; /* Agora está alinhado na horizontal */
+    justify-content: space-around; /* Agora está alinhado na vertical */
+    width: 45%;
+    min-height: 34rem;
+}
+.group{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    flex-direction: column;
+    background-color: #ffffff;
+    width: 100%;
+    padding: 1.3rem 0;
+    border:  1px solid lightgray;
+}
+.group:nth-child(1){ 
+    /* min-height: 19em; */
+    margin-top: 13px;
+}
+.group:nth-child(2){ 
+    margin-top: 13px;
+}
+.instagram-logo{
+    height: 3rem;
+}
+.instagram-login{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: space-around;
+    width: 80%;
+    margin-top: 30px;
+}
+input{
+    width: 100%;
+    font-size: 13px;
+    border: 1px solid lightgray;
+    background-color: RGB(250,250,250);
+    overflow: hidden;
+    padding: 9px 0 7px 8px;
+    text-overflow: ellipsis;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    border-radius: 4%;
+}
+.login-button{ /* Button Log in */
+    background-color: rgba(var(--d69,0,149,246),.3);
+    opacity: 1;
+    color: #ffffff;
+    border-radius: 4px;  
+    margin-bottom: 1px;
+    width: 100%;
+    text-align: center;
+    padding: 7px 0;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    min-height: 2.5rem;
+    font-size: 14px;
+}
+
+.content-line{
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+    justify-content: center;
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.line{  
+    background-color: rgb(219,219,219);
+    flex-grow: 1;
+    flex-shrink: 1;
+    height: 1px;
+    position: relative;
+    top: .45em;
+    margin-bottom: 12px;
+}
+.or{
+    color: rgb(142,142,142);
+    flex-grow: 0;
+    flex-shrink: 0;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 15px;
+    margin: 10px 18px;
+    text-transform: uppercase;
+}
+
+/* Log in with facebook */
+.login-facebook{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around; 
+    margin: 5px 0 5px 0;
+}
+.login-facebook-icon{
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+}
+.login-facebook-button{ 
+    font-weight: bold;
+    color: #385185;
+    line-height: 16px;
+}
+
+.login-forgot{
+    color: #385185; 
+    text-align: center; 
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+    margin-top: 12px;     
+}
+
+/* ------------------ */
+.get-the-app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1.3rem 0;
+}
+.get-app{
+    color: rgb(38,38,38);
+    font-weight: 500;
+}
+.download{
+    display: flex;
+    justify-content: space-evenly; /* uniformemente = mesmos espaços */ 
+    align-items: center;
+    width: 100%;
+    padding: 1rem;
+}
+.app-download{
+    height: 3rem;
+    width: 10rem;
+    background-size: cover;
+}
+.app-download-apple{
+    width: 10rem;
+    margin-right: 5px;
+}
+.app-download-google{
+    width: 10rem;
+    margin-left: 5px;
+}
+/* .app-download:nth-child(1){
+    background-image: url("apple-button.png");
+}
+.app-download:nth-child(2){
+    background-image: url('googleplay-button.png');   
+} */
