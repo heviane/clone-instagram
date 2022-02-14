@@ -1,0 +1,39 @@
+.instagram-wraper{
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    width: 30%;
+    height: 100vh;
+}
+.group{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+    align-items: center;
+    background-color: #ffffff;
+    width: 100%;
+    padding: 1.3rem 0;   
+    border: 1px solid lightgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.group:nth-child(1){ 
+    margin-top: 13px;
+}
+.login-instagram{
+    margin-top: 5px;
+}
+.login-facebook{
+    width: 80%;
+}
+.term{
+    font-size: 10px;
+}
+.group:nth-child(2){ 
+    display: flex; 
+    flex-direction: row;
+    align-items: center;
+    justify-content: center; 
+    margin-top: 7px;
+}

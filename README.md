@@ -1,13 +1,14 @@
 # Desáfio de Projeto: Clone do Instagram 🙃
 
-O objetivo é recriar as telas de login do Instagram usando [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp).
+Recriar as telas de login do instagram.
 
-Bootcamp [HTML Web Developer](developer) da [Digital Innovation one](https://web.dio.me)
+Projeto realizado durante o bootcamp [HTML Web Developer](developer) na [Digital Innovation one](https://web.dio.me)
 
 - Telas recriadas:
-  - login
-  - continue
-  - signup
+  - [login](index.html)
+  - [continue-as](continue-as.html)
+  - [signup](signup.html)
+  - [reset-pawword](reset-password.html)
 
 ## Conteúdo
 

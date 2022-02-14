@@ -1,0 +1,13 @@
+----------- Campo senha
+- Opção para mostrar senha (show)
+----------- Botão de login
+- Desabilitado enquanto os campos estiverem vazios (Opaco), 
+    - Habilitar após preenchimento (azul forte)
+----------- Telas pendentes
+    - Sign Up
+    - Reset
+    - Log In with Facebook ???
+    - Galeria de Imagens ???
+
+----------- Github Pages
+https://web.dio.me/articles/servidor-e-dominio-gratis-com-github-pages?back=%2Farticles&page=1&order=oldest
