@@ -203,7 +203,7 @@ input{
     .instagram-phone {
         display: none;
     }
-    .instagram-continue {
+    .login-instagram, .instagram-access, .content {
         width: 100%;
     }
     .group {
