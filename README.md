@@ -9,7 +9,7 @@ A ideia é recriar o layout das telas de acesso do Instagram:
 - [signup](https://heviane.github.io/clone-instagram/signup.html)
 - [reset-password](https://heviane.github.io/clone-instagram/reset-password.html)
 
-## Stack utilizada
+## Stacks
 
 - [HTML5](https://www.w3schools.com/html)
 - [CSS3](https://www.w3schools.com/css)
