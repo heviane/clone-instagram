@@ -1,16 +1,14 @@
-# Desáfio de Projeto: Clone do Instagram 🙃
+# Project Challenge: Instagram 🙃
 
-Recriar as telas de login do instagram.
+Project created during bootcamp [HTML Web Developer](developer) at [Digital Innovation one](https://web.dio.me)
 
-Projeto realizado durante o bootcamp [HTML Web Developer](developer) na [Digital Innovation one](https://web.dio.me)
+- Pages recreated and published with [GitHub Pages](https://pages.github.com)
+  - Page: [Login](https://heviane.github.io/clone-instagram/index.html)
+  - Page: [Sign Up](https://heviane.github.io/clone-instagram/signup.html)
+  - Page: [Reset Password](https://heviane.github.io/clone-instagram/reset-password.html)
+  - Page: [Continue as](https://heviane.github.io/clone-instagram/continue-as.html)
 
-- Telas recriadas:
-  - [login](index.html)
-  - [continue-as](continue-as.html)
-  - [signup](signup.html)
-  - [reset-pawword](reset-password.html)
-
-## Conteúdo
+## Lessons Learned
 
 - [HTML](https://www.w3schools.com/html)
 - [CSS](https://www.w3schools.com/css)
@@ -18,6 +16,6 @@ Projeto realizado durante o bootcamp [HTML Web Developer](developer) na [Digital
 
 ## References
 
-- [Projeto da aula com a expert Gabriela Pinheiro](https://github.com/SpruceGabriela/instagram-dio)
+- [Class with expert Gabriela Pinheiro](https://github.com/SpruceGabriela/instagram-dio)
 
 ## 🚀 Let's code! 🚀

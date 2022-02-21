@@ -1,52 +1,30 @@
-.instagram-wraper{
-    display: flex; 
-    align-items: center;    /* Alinhamento vertical (y) */
-    justify-content: start; /* Alinhamento horizontal (x) */
-                            /* start = começar da esquerda para a direita */
-    width: 60%;
+.instagram-wraper{ /* Rewriting */
     height: 100vh;
 }
-.instagram-phone{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 50%;
-}
-.instagram-phone img{
-    height: 50rem;
-}
-.group{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between; 
-    align-items: center;
-    background-color: #ffffff;
-    width: 100%;
-    padding: 1.3rem 0;   
-    border: 1px solid lightgray;
-    padding-top: 20px;
-    padding-bottom: 20px;
+.instagram-access{/* Right side */
     min-height: 25rem;
 }
-.instagram-logo{
-    height: 3rem;
+.group{ /* Rewriting */
+    margin-top: 10px;
+}
+.group:nth-child(1){ 
+    padding-top: 20px;
+    padding-bottom: 20px;
+    min-height: 15rem;
 }
 .profile-photo{
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 50%;
-    overflow: hidden; /* Imagem não exceder o tamanho da div para fora (partes quadradas) */
+    overflow: hidden; /* Img não exceder o tamanho da div para fora (partes quadradas) */
 }
 .profile-photo img{
     height: 6rem;
 }
-.login-instagram-button{
+.login-instagram-button{/* Rewriting */
     width: 50%;
 }
 .not-continue{
-    display: flex; 
-    flex-direction: row;
-    align-items: center;
-    justify-content: center; 
+    margin-top: 20px;
 }

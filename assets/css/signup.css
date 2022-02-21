@@ -1,34 +1,39 @@
-.instagram-wraper{
-    display: flex; 
+.instagram-wraper{/* Rewriting */
     flex-direction: column;
-    align-items: center;
     justify-content: center; 
-    width: 30%;
-    height: 100vh;
 }
-.group{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between; 
-    align-items: center;
-    background-color: #ffffff;
-    width: 100%;
-    padding: 1.3rem 0;   
-    border: 1px solid lightgray;
+.group{/* Rewriting */
     padding-top: 10px;
     padding-bottom: 10px;
 }
+.msg-top{/* Don't have an account? OR Not byheviane? OR Get the app*/
+    width: 65%; 
+    color: rgba(var(--f52,142,142,142),1);
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 20px;
+    margin: 0 40px 10px;
+    text-align: center
+}
+.msg-bottom{
+    color: rgba(var(--f52,142,142,142),1);
+    font-size: 12px;
+    line-height: 16px;
+    margin: 10px 40px;
+    text-align: center;
+}
+.msg-bottom > a {
+    color: rgba(var(--f52,142,142,142),1);
+    font-size: 12px;
+    line-height: 16px;  
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    font-weight: 0;
+}
 .group:nth-child(1){ 
     margin-top: 13px;
-}
-.login-instagram{
-    margin-top: 5px;
-}
-.login-facebook{
-    width: 80%;
-}
-.term{
-    font-size: 10px;
 }
 .group:nth-child(2){ 
     display: flex; 
@@ -36,4 +41,10 @@
     align-items: center;
     justify-content: center; 
     margin-top: 7px;
+}
+.login-instagram{/* Rewriting */
+    margin-top: 5px;
+}
+.login-facebook{/* Rewriting */
+    width: 80%;
 }
