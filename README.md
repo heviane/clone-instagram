@@ -15,6 +15,10 @@ A ideia é recriar o layout das telas de acesso do Instagram:
 - [CSS3](https://www.w3schools.com/css)
 - [CSS3 Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
 
+## Learnings
+
+Com este desáfio pude entender melhor como montar um layput usando o modelo Flexbox com HTML5 para estruturar e CSS3 para formatar, assim como realizar configurações necessárias para obter responsividade.
+
 ## References
 
 - [Class with expert Gabriela Pinheiro](https://github.com/SpruceGabriela/instagram-dio)
