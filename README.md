@@ -17,7 +17,7 @@ A ideia é recriar o layout das telas de acesso do Instagram:
 
 ## Learnings
 
-Com este desáfio pude entender melhor como montar um layput responsivo usando o modelo Flexbox com HTML5 para estruturar e CSS3 para formatar.
+Com este desáfio pude entender melhor como montar um layput responsivo usando o modelo Flexbox com HTML5 para estruturar e CSS3 para posicionar e formatar elementos.
 
 ## References
 
