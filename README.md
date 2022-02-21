@@ -11,9 +11,9 @@ A ideia é recriar o layout das telas de acesso do Instagram:
 
 ## Stack utilizada
 
-- [HTML](https://www.w3schools.com/html)
-- [CSS](https://www.w3schools.com/css)
-- [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+- [HTML5](https://www.w3schools.com/html)
+- [CSS3](https://www.w3schools.com/css)
+- [CSS3 Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
 
 ## References
 
