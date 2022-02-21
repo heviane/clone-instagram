@@ -18,5 +18,6 @@ A ideia é recriar o layout das telas de acesso do Instagram:
 ## References
 
 - [Class with expert Gabriela Pinheiro](https://github.com/SpruceGabriela/instagram-dio)
+- [Responsive Design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 
 ## 🚀 Let's code! 🚀

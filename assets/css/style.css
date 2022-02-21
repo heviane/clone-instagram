@@ -203,10 +203,21 @@ input{
     .instagram-phone {
         display: none;
     }
-    .login-instagram, .instagram-access, .content {
+    .instagram-access{
         width: 100%;
     }
     .group {
+        width: 100%;
         border: 1px solid transparent;
+    }
+    .header, .login-instagram, .content-line, .footer {
+        width: 100%;
+    }
+    .content{/* reset-password */
+        width: 100%;
+    }
+    .get-the-app {
+        display: none; /* Para ocultar */
+        /* display: block; Para mostrar */
     }
 }
