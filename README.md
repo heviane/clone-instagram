@@ -1,16 +1,15 @@
 # Desáfio de Projeto: Clone do Instagram 🙃
 
-Recriar as telas de login do instagram.
-
 Projeto realizado durante o bootcamp [HTML Web Developer](developer) na [Digital Innovation one](https://web.dio.me)
 
-- Telas recriadas:
-  - [login](index.html)
-  - [continue-as](continue-as.html)
-  - [signup](signup.html)
-  - [reset-pawword](reset-password.html)
+A ideia é recriar o layout das telas de acesso do Instagram:
 
-## Conteúdo
+- [login](https://heviane.github.io/clone-instagram)
+- [continue-as](https://heviane.github.io/clone-instagram/continue-as.html)
+- [signup](https://heviane.github.io/clone-instagram/signup.html)
+- [reset-pawword](https://heviane.github.io/clone-instagram/reset-password.html)
+
+## Stack utilizada
 
 - [HTML](https://www.w3schools.com/html)
 - [CSS](https://www.w3schools.com/css)
